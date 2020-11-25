@@ -18,7 +18,7 @@ Meanwhile, a poll carried out among 580 charity bosses in April found only a thi
 
 The Small Charities Coalition says parts of the sector face a “slow death”, the true scale of which will not be realised until early in 2021 when that grant funding runs out. 
 
-# How we got the data
+# Methodology
 For this investigation, we used a variety of sources: 
 
 - Charitybase.org (A database of every charity in the UK, its location, annual income and expenditure) https://charitybase.uk/chc
@@ -31,19 +31,19 @@ For this investigation, we used a variety of sources:
 
 - 360 Giving’s Covid-19 Grant Tracker: https://covidtracker.threesixtygiving.org/?exclude=True
 
-# What we shared
+# Data
 
 We shared a story pack containing analysis of the data above and key interviews with the Small Charities Coalition, the Charities Aid Foundation, Virgin Money Giving as well as local charities Yorkshire Cat Rescue Centre and Designability in Bath: https://docs.google.com/document/d/1qfeYxoxRU9gwi5HUA1sKW2S9a9OPZyDQr96hUp6OCrU/edit?usp=sharing
 
 We also shared a curated version of the Charitybase database, allowing local titles to assess the scale of the small charities sector in their area: https://docs.google.com/spreadsheets/d/1SLjgJKOd_QpzqkPVcQFPa7G9qDS-s1J4Zc8jWcRdzjM/edit?usp=sharing
 
-# How was the story used?
+# Partner usage
 
 The story featured on the BBC England homepage as well as the morning bulletins for BBC Radio Lancashire, BBC Radio Cumbria and BBC Radio Shropshire.
 
 It was also taken up among several partners in print and online, including:
 
-- Liverpool Echo: https://www.liverpoolecho.co.uk/news/liverpool-news/warning-many-small-charities-no-19328328
+- Liverpool Echo: https://www.liverpoolecho.co.uk/news/liverpool-news/warning-many-small-charities-no-19328328 25, November, 2020
 
 - Gainsborough Standard: https://www.gainsboroughstandard.co.uk/news/people/small-charities-could-be-facing-slow-death-due-covid-19-3026797
 
