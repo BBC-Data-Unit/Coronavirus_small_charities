@@ -31,13 +31,13 @@ For this investigation, we used a variety of sources:
 
 # What we shared
 
-We shared a story pack containing analysis of the data above and key interviews with the Small Charities Coalition, the Charities Aid Foundation, Virgin Money Giving and local charities Yoprkshire Cat Rescue Centre and Designability in Bath: https://docs.google.com/document/d/1qfeYxoxRU9gwi5HUA1sKW2S9a9OPZyDQr96hUp6OCrU/edit?usp=sharing
+We shared a story pack containing analysis of the data above and key interviews with the Small Charities Coalition, the Charities Aid Foundation, Virgin Money Giving as well as local charities Yorkshire Cat Rescue Centre and Designability in Bath: https://docs.google.com/document/d/1qfeYxoxRU9gwi5HUA1sKW2S9a9OPZyDQr96hUp6OCrU/edit?usp=sharing
 
 We also shared a curated version of the Charitybase database, allowing local titles to assess the scale of the small charities sector in their area: https://docs.google.com/spreadsheets/d/1SLjgJKOd_QpzqkPVcQFPa7G9qDS-s1J4Zc8jWcRdzjM/edit?usp=sharing
 
 # How was the story used?
 
-The story featured on the BBC England page as well as the morning bulletins for BBC Radio Lancashire, BBC Radio Cumbria and BBC Radio Shropshire.
+The story featured on the BBC England homepage as well as the morning bulletins for BBC Radio Lancashire, BBC Radio Cumbria and BBC Radio Shropshire.
 
 It was also taken up among several partners in print and online, including:
 
