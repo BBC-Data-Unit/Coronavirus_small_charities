@@ -6,6 +6,8 @@ Thousands of smaller charities face a “slow death”, experts fear, amid decli
 
 The cancellation of all participation events since March has seen overall donations to non-NHS charities drop by 46% on a leading fundraising site.
 
+![Charities screenshot](https://user-images.githubusercontent.com/61186777/100229347-0090a000-2f1c-11eb-98c2-953d93802a7e.png)
+
 But analysis by the BBC has found that smaller charities - without the reserve levels of their larger counterparts - are at far greater risk of having to cease operating entirely.
 
 The leader of the Charities Aid Foundation (CAF) said the declining income from collection tins, charity shops and community events such as fetes and raffles had already hit the incomes of smaller operations by “hundreds of millions of pounds”.
