@@ -43,21 +43,21 @@ The story featured on the BBC England homepage as well as the morning bulletins 
 
 It was also taken up among several partners in print and online, including:
 
-- Liverpool Echo: https://www.liverpoolecho.co.uk/news/liverpool-news/warning-many-small-charities-no-19328328 25, November, 2020
+- Liverpool Echo: https://www.liverpoolecho.co.uk/news/liverpool-news/warning-many-small-charities-no-19328328 *25 November 2020*
 
-- Gainsborough Standard: https://www.gainsboroughstandard.co.uk/news/people/small-charities-could-be-facing-slow-death-due-covid-19-3026797
+- Gainsborough Standard: https://www.gainsboroughstandard.co.uk/news/people/small-charities-could-be-facing-slow-death-due-covid-19-3026797 *6 November 2020*
 
-- Cannock Chase Radio: https://www.cannockchaseradio.co.uk/coronavirus-small-charities-face-slow-death-2
+- Cannock Chase Radio: https://www.cannockchaseradio.co.uk/coronavirus-small-charities-face-slow-death-2 *6 November 2020*
 
-- Tenby Today: https://www.tenby-today.co.uk/article.cfm?id=129808&headline=Local%20charities%20face%20%E2%80%98slow%20death%E2%80%99%20%2D%20experts%20state&sectionIs=News&searchyear=2020
+- Tenby Today: https://www.tenby-today.co.uk/article.cfm?id=129808&headline=Local%20charities%20face%20%E2%80%98slow%20death%E2%80%99%20%2D%20experts%20state&sectionIs=News&searchyear=2020 *2 November 2020*
 
-- Hexham Courant: https://www.hexham-courant.co.uk/news/18842547.small-charities-may-not-survive-second-lockdown/
+- Hexham Courant: https://www.hexham-courant.co.uk/news/18842547.small-charities-may-not-survive-second-lockdown/ *6 November 2020*
 
-- South Wales Evening Post: https://www.pressreader.com/uk/south-wales-evening-post/20201107/281706912201128
+- South Wales Evening Post: https://www.pressreader.com/uk/south-wales-evening-post/20201107/281706912201128 *7 November 2020*
 
-- Bath Chronicle: https://www.pressreader.com/uk/bath-chronicle/20201112/281651077634864
+- Bath Chronicle: https://www.pressreader.com/uk/bath-chronicle/20201112/281651077634864 *7 November 2020*
 
-- Gedling Eye: https://www.gedlingeye.co.uk/news/smaller-charities-in-gedling-borough-could-be-facing-financial-ruin-because-of-coronavirus/
+- Gedling Eye: https://www.gedlingeye.co.uk/news/smaller-charities-in-gedling-borough-could-be-facing-financial-ruin-because-of-coronavirus/ *6 November 2020*
 
 ## Related repos
 
