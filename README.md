@@ -1,25 +1,25 @@
 # Covid: Small charities face 'slow death'
 
-Thousands of smaller charities face a “slow death”, experts fear, amid declining donations and limited grants.
-
-The cancellation of all participation events since March has seen overall donations to non-NHS charities drop by 46% on a leading fundraising site.
-
 ![Charities screenshot](https://user-images.githubusercontent.com/61186777/100229347-0090a000-2f1c-11eb-98c2-953d93802a7e.png)
 
-But analysis by the BBC has found that smaller charities - without the reserve levels of their larger counterparts - are at far greater risk of having to cease operating entirely.
+In November 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-54754902) experts' fears that thousands of smaller charities across the UK could cease to exist in the new year, following a shift in the nature of giving.
+
+The cancellation of all participation events since March had seen overall donations to non-NHS charities drop by 46% on a leading fundraising site.
+
+But our analysis found that smaller charities - without the reserve levels of their larger counterparts - were at greater risk of having to cease operating entirely.
 
 The leader of the Charities Aid Foundation (CAF) said the declining income from collection tins, charity shops and community events such as fetes and raffles had already hit the incomes of smaller operations by “hundreds of millions of pounds”.
 
-Even though he said overall giving in 2020 was up by £800m compared to 2019 - the majority of those funds were absorbed by NHS charities. 
+Even though he said overall giving in 2020 was up by £800m compared to 2019, the majority of those funds were absorbed by NHS charities. 
 
 Meanwhile, a poll carried out among 580 charity bosses in April found only a third had enough funds to meet running costs for the next three months.
 
-The Small Charities Coalition says parts of the sector face a “slow death”, the true scale of which will not be realised until early in 2021 when that grant funding runs out. 
+The Small Charities Coalition said parts of the sector faced a “slow death”, the true scale of which would not be realised until early in 2021 when that grant funding ran out. 
 
 # Methodology
 For this investigation, we used a variety of sources: 
 
-- Charitybase.org (A database of every charity in the UK, its location, annual income and expenditure) https://charitybase.uk/chc
+- [Charitybase.org (A database of every charity in the UK, its location, annual income and expenditure)](https://charitybase.uk/chc)
 
 - Polling on charitable giving conducted by YouGov
 
@@ -27,13 +27,13 @@ For this investigation, we used a variety of sources:
 
 - “Pulse polling” carried out during the pandemic by the Charities Aid Foundation and the Small Charities Coalition
 
-- 360 Giving’s Covid-19 Grant Tracker: https://covidtracker.threesixtygiving.org/?exclude=True
+- [360 Giving’s Covid-19 Grant Tracker](https://covidtracker.threesixtygiving.org/?exclude=True)
 
 # Data
 
-We shared a story pack containing analysis of the data above and key interviews with the Small Charities Coalition, the Charities Aid Foundation, Virgin Money Giving as well as local charities Yorkshire Cat Rescue Centre and Designability in Bath: https://docs.google.com/document/d/1qfeYxoxRU9gwi5HUA1sKW2S9a9OPZyDQr96hUp6OCrU/edit?usp=sharing
+We shared a [story pack](https://docs.google.com/document/d/1qfeYxoxRU9gwi5HUA1sKW2S9a9OPZyDQr96hUp6OCrU/edit?usp=sharing) containing analysis of the data above and key interviews with the Small Charities Coalition, the Charities Aid Foundation, Virgin Money Giving as well as local charities Yorkshire Cat Rescue Centre and Designability in Bath. 
 
-We also shared a curated version of the Charitybase database, allowing local titles to assess the scale of the small charities sector in their area: https://docs.google.com/spreadsheets/d/1SLjgJKOd_QpzqkPVcQFPa7G9qDS-s1J4Zc8jWcRdzjM/edit?usp=sharing
+We also shared a [curated version of the Charitybase database](https://docs.google.com/spreadsheets/d/1SLjgJKOd_QpzqkPVcQFPa7G9qDS-s1J4Zc8jWcRdzjM/edit?usp=sharing), allowing local titles to assess the scale of the small charities sector in their area. 
 
 # Partner usage
 
