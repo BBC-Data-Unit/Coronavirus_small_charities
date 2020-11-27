@@ -37,25 +37,20 @@ We also shared a [curated version of the Charitybase database](https://docs.goog
 
 # Partner usage
 
-The story featured on the BBC England homepage as well as the morning bulletins for BBC Radio Lancashire, BBC Radio Cumbria and BBC Radio Shropshire.
+The BBC Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. 
 
-It was also taken up among several partners in print and online, including:
+Stories written in print and online by partners based on this research included:
 
-- Liverpool Echo: https://www.liverpoolecho.co.uk/news/liverpool-news/warning-many-small-charities-no-19328328 *25 November 2020*
+* Liverpool Echo: [Warning many small charities may no longer be sustainable 'within a year'](https://www.liverpoolecho.co.uk/news/liverpool-news/warning-many-small-charities-no-19328328) *25 November 2020*
+* Gainsborough Standard: [Small charities could be facing a ‘slow death’ due to Covid-19](https://www.gainsboroughstandard.co.uk/news/people/small-charities-could-be-facing-slow-death-due-covid-19-3026797) *6 November 2020*
+* Cannock Chase Radio: [Coronavirus: Small charities face 'slow death'](https://www.cannockchaseradio.co.uk/coronavirus-small-charities-face-slow-death-2) *6 November 2020*
+* Tenby Today: [Local charities face ‘slow death’ - experts state](https://www.tenby-today.co.uk/article.cfm?id=129808&headline=Local%20charities%20face%20%E2%80%98slow%20death%E2%80%99%20%2D%20experts%20state&sectionIs=News&searchyear=2020) *2 November 2020*
+* Hexham Courant: [Small charities may not survive second lockdown](https://www.hexham-courant.co.uk/news/18842547.small-charities-may-not-survive-second-lockdown/) *6 November 2020*
+* South Wales Evening Post: [Charities facing 'slow death' due to pandemic](https://www.pressreader.com/uk/south-wales-evening-post/20201107/281706912201128) *7 November 2020*
+* Bath Chronicle: [Smaller charities 'at ris of closure'](https://www.pressreader.com/uk/bath-chronicle/20201112/281651077634864) *7 November 2020*
+* Gedling Eye: [Smaller charities in Gedling borough could be facing financial ruin because of coronavirus](https://www.gedlingeye.co.uk/news/smaller-charities-in-gedling-borough-could-be-facing-financial-ruin-because-of-coronavirus/) *6 November 2020*
 
-- Gainsborough Standard: https://www.gainsboroughstandard.co.uk/news/people/small-charities-could-be-facing-slow-death-due-covid-19-3026797 *6 November 2020*
-
-- Cannock Chase Radio: https://www.cannockchaseradio.co.uk/coronavirus-small-charities-face-slow-death-2 *6 November 2020*
-
-- Tenby Today: https://www.tenby-today.co.uk/article.cfm?id=129808&headline=Local%20charities%20face%20%E2%80%98slow%20death%E2%80%99%20%2D%20experts%20state&sectionIs=News&searchyear=2020 *2 November 2020*
-
-- Hexham Courant: https://www.hexham-courant.co.uk/news/18842547.small-charities-may-not-survive-second-lockdown/ *6 November 2020*
-
-- South Wales Evening Post: https://www.pressreader.com/uk/south-wales-evening-post/20201107/281706912201128 *7 November 2020*
-
-- Bath Chronicle: https://www.pressreader.com/uk/bath-chronicle/20201112/281651077634864 *7 November 2020*
-
-- Gedling Eye: https://www.gedlingeye.co.uk/news/smaller-charities-in-gedling-borough-could-be-facing-financial-ruin-because-of-coronavirus/ *6 November 2020*
+The story also featured on the BBC England homepage as well as the morning bulletins for BBC Radio Lancashire, BBC Radio Cumbria and BBC Radio Shropshire.
 
 ## Related repos
 
