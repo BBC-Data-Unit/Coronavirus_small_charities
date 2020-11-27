@@ -1,6 +1,4 @@
-# Coronavirus_small_charities
-
-Small charities are struggling to cope during the pandemic
+# Covid: Small charities face 'slow death'
 
 Thousands of smaller charities face a “slow death”, experts fear, amid declining donations and limited grants.
 
