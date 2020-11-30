@@ -4,7 +4,7 @@ In November 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news
 
 The cancellation of all participation events since March had seen overall donations to non-NHS charities drop by 46% on a leading fundraising site.
 
-![Charities screenshot](https://user-images.githubusercontent.com/61186777/100229347-0090a000-2f1c-11eb-98c2-953d93802a7e.png)
+![download](https://user-images.githubusercontent.com/61186777/100610427-9d31b400-3307-11eb-8614-bbbd696a8efd.png)
 
 But our analysis found that smaller charities - without the reserve levels of their larger counterparts - were at greater risk of having to cease operating entirely.
 
